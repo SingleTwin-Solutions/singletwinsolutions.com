@@ -1,0 +1,20 @@
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240610-6250-wfgrxd sitelibdir\=./.gem.20240610-6250-wfgrxd clean
+
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240610-6250-wfgrxd sitelibdir\=./.gem.20240610-6250-wfgrxd
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240610-6250-wfgrxd sitelibdir\=./.gem.20240610-6250-wfgrxd install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240610-6250-wfgrxd
+
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240610-6250-wfgrxd sitelibdir\=./.gem.20240610-6250-wfgrxd clean

@@ -1,0 +1,19 @@
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240610-6250-eadura sitelibdir\=./.gem.20240610-6250-eadura clean
+
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240610-6250-eadura sitelibdir\=./.gem.20240610-6250-eadura
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240610-6250-eadura sitelibdir\=./.gem.20240610-6250-eadura install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20240610-6250-eadura
+
+current directory: /Users/tmeralus/projects/tme/sts-web-jekyll/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240610-6250-eadura sitelibdir\=./.gem.20240610-6250-eadura clean
