@@ -1,17 +1,20 @@
 main:
-  - name: "Home"
-    url: "/"
-    weight: 1
+#  - name: "Home"
+#    url: "/"
+#    weight: 1
   - name: "Services"
     url: "/services/"
-    weight: 2
+    weight: 1
   - name: "Quick Fix"
     url: "/quick-fix/"
-    weight: 3
+    weight: 2
   - name: "About"
     url: "/about/"
+    weight: 3
+  - name: "Contact"
+    url: "/contact/"
     weight: 4
-#  - name: "Capabilities"
+#  - name: "CSpabilities"
 #    url: "/capabilities/"
 #    weight: 4
 #  - name: "Contracts"
@@ -20,10 +23,6 @@ main:
 #  - name: "News"
 #    url: "/news/"
 #    weight: 5
-  - name: "Contact"
-    url: "/contact/"
-    weight: 4
-#    weight: 6
 
 footer:
   - name: "Home"
